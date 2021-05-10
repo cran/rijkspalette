@@ -1,11 +1,11 @@
-3d327f22caf882f080c2bf16b002dad5 *DESCRIPTION
+c080b6524d9b6a79a6b75939e3ab2b8b *DESCRIPTION
 29267edd0be0e2a551dcb1813be1fee5 *LICENCE
 ed80aa1d4fae4b6718d228bbccaa4671 *NAMESPACE
-6070cc7b0ad70df90311039ac8ae2fa1 *R/helpers.R
+1ffb96868ab14637cdb763a62bba298a *R/helpers.R
 830bd77957a7e6ee272c73956a6e78ad *R/methods.R
 40f54cba10be39ea2def896c2242747b *R/rijkspalette.R
 8da0fc8516a0e678059ebad37d058dd2 *man/explore.Rd
 6e2ba79b781d8c64d28c12dad094f72c *man/labmatToPalette.Rd
 78d8ea745d157f720cec63d4ae9caa3c *man/rijksPalette.Rd
-07d82f7cca25f25380e55eb00a314a54 *man/rijksQuery.Rd
+a7136a4c4034c2b168d0eaff429a2d62 *man/rijksQuery.Rd
 2ddc91be7855eececdf956bc09465538 *man/tune.Rd
